@@ -1,6 +1,3 @@
-# Gorosei_App
-Application de gestion de base de données avec Agents IA
-
 # 🚀 Gorosei_App
 
 Gorosei_App est une application qui permet de gérer une base de données à l’aide d’une équipe d’agents IA spécialisés. Basée sur un système **RAG (Retrieval-Augmented Generation)**, elle offre une gestion intelligente des connaissances et une interface intuitive pour interagir avec les données.
